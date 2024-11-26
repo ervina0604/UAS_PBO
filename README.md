@@ -8,15 +8,19 @@ Langkah-langkah berikut mencakup pembuatan database hingga penerapan fitur aplik
 
 ## **1. Buat Database dan Tabel Mahasiswa dan Login di PostgreSQL**  
 
-![image](https://github.com/user-attachments/assets/f164d60c-a92e-405f-a01c-a0388171d6aa)
+![Screenshot 2024-11-26 140818](https://github.com/user-attachments/assets/27f1e9a6-75ac-4256-b888-728a6c8ed541)
+
 ---
 
 ## **2. Buat Frame Gui dan button**
-![image](https://github.com/user-attachments/assets/2e9b88c7-5454-4360-a8f3-7fc822673053)
+![Screenshot 2024-11-26 140847](https://github.com/user-attachments/assets/5575066a-e70e-44dc-b499-c69a5b5dbea9)
 
-![image](https://github.com/user-attachments/assets/c2144584-1ba8-486b-b01a-c8086e48d013)
 
-![image](https://github.com/user-attachments/assets/25d3cabc-1f3b-45b7-831c-b78343bf05e8)
+![Screenshot 2024-11-26 141039](https://github.com/user-attachments/assets/33e2ba3b-185d-4ed3-804e-254f691160fb)
+
+
+![Screenshot 2024-11-26 141028](https://github.com/user-attachments/assets/c4f07b99-caf2-4d49-882b-e81877b921b5)
+
 
 --- 
 
@@ -25,29 +29,39 @@ Langkah-langkah berikut mencakup pembuatan database hingga penerapan fitur aplik
     
 - **Create**
 	source code:
- ![image](https://github.com/user-attachments/assets/e846f9e1-3659-49c2-924e-7e886aee13c0)
+ ![Screenshot 2024-11-26 141143](https://github.com/user-attachments/assets/e12820f9-bc04-42f3-a42b-9c2d905f21e3)
+
 
 tampilan berhasil:
-![image](https://github.com/user-attachments/assets/f16f7f5c-c1a7-4e8b-a279-5b772db89a8b)
+
+![Screenshot 2024-11-26 141846](https://github.com/user-attachments/assets/ce5677aa-9531-4e5e-8b95-da8f611edc47)
 
 
 - **Update**
 	source code:
- ![image](https://github.com/user-attachments/assets/abffd009-cbcf-4661-9b3f-5bf44c2961e2)
+![Screenshot 2024-11-26 141156](https://github.com/user-attachments/assets/72a2e38a-ca52-43d5-9747-394dae47c7f8)
+
 
 tampilan berhasil:
-![image](https://github.com/user-attachments/assets/af7d27a5-9de4-4ac5-b23b-f5b8615c8963)
+
+![Screenshot 2024-11-26 141904](https://github.com/user-attachments/assets/d2e328c9-5d99-4d34-b45f-8993276ca501)
+
 
 
 - **Delete**
 	source code:
-![image](https://github.com/user-attachments/assets/6901fded-a1d0-4dfb-b044-e319eceb6bb0)
+![Screenshot 2024-11-26 141208](https://github.com/user-attachments/assets/8a6bd2a3-89b3-4ce6-8201-6a5f9dcf9099)
+
 
 tampilan berhasil:
-![image](https://github.com/user-attachments/assets/cbfa5ba9-3c80-45e8-8b36-ad2cf734f77e)
+
+![Screenshot 2024-11-26 141922](https://github.com/user-attachments/assets/012434e5-b2ac-4126-8da1-c93a93b8eb77)
+
 
  source code tampil dan bersih:
- ![image](https://github.com/user-attachments/assets/0c6498b7-4eea-4dd0-9cb7-aa3c76772ce4)
+
+![Screenshot 2024-11-26 142915](https://github.com/user-attachments/assets/660719cf-35db-4b08-92b8-550dfdfcc42e)
+
 
 
 
@@ -61,31 +75,46 @@ tampilan berhasil:
    - Geser tabel yang ingin digunakan ke kolom kanan.  
 4. **Klik Finish**  
    - Persistence Unit dan entitas akan dibuat secara otomatis.
-![image](https://github.com/user-attachments/assets/89dbebc4-088f-4b79-9179-1b84b88cfd82)
+
+![Screenshot 2024-11-26 142935](https://github.com/user-attachments/assets/257d2d10-80ef-47a9-a11d-b006925f25cb)
+
 
 * gambar hasil persistence unit di package
- ![image](https://github.com/user-attachments/assets/679d630e-f133-4153-96da-2717387606d1)
+
+![Screenshot 2024-11-26 141429](https://github.com/user-attachments/assets/be65091e-33a4-4dc7-9552-34017b298217)
+
 
 ---
 
 ## **4. Buat Sign-Up**  
 source code :
 
-![image](https://github.com/user-attachments/assets/ded6e61f-bb9e-4239-942a-364b5902a7cf)
+
+![Screenshot 2024-11-26 141505](https://github.com/user-attachments/assets/2102be2b-373a-404a-8621-64a1916ed727)
+
 
 ### - Validasi Password  
 Tambahkan logika untuk memastikan password memenuhi kriteria keamanan:  
 - Panjang minimal 8 karakter.  
-![image](https://github.com/user-attachments/assets/e9f4289b-6d08-4e1c-b8a7-81f2b0a0b865)
+
+
+![Screenshot 2024-11-26 141452](https://github.com/user-attachments/assets/514d213b-d665-428e-8b6b-a82187075a1c)
+
 
 tampilan validasi password:
-![image](https://github.com/user-attachments/assets/6e8694d3-380b-41d3-aa93-2e8433d6d10d)
+
+![Screenshot 2024-11-26 142509](https://github.com/user-attachments/assets/42d0d580-9a99-4dfb-8838-743e8d265632)
+
 
 tampilan berhasil signup:
-![image](https://github.com/user-attachments/assets/4f89cdee-fbf8-4316-aabd-595c61d5b838)
+
+![Screenshot 2024-11-26 142327](https://github.com/user-attachments/assets/b47a7cbe-98cd-4e66-b2dc-be10ef6e1821)
+
 
 tampilan berhasil login:
-![image](https://github.com/user-attachments/assets/d889202a-8f21-4d40-b114-928596a02030)
+
+![Screenshot 2024-11-26 142350](https://github.com/user-attachments/assets/b360c757-f981-42a7-85c6-bdf98c603a7a)
+
 
 
 
@@ -98,10 +127,13 @@ tampilan berhasil login:
 Buat file CSV yang berisi data yang ingin diunggah ke database.  
 
 source code :
-![image](https://github.com/user-attachments/assets/ae02e24f-b8c1-499b-81b8-bbc724982372)
+![Screenshot 2024-11-26 141613](https://github.com/user-attachments/assets/1c76fcf9-7317-47fc-a954-1635c2d93fa1)
+
 
 tampilan berhasil:
-![image](https://github.com/user-attachments/assets/aecbf1b0-ab5e-4ae9-bda8-23ac6ca74c1c)
+
+![Screenshot 2024-11-26 141949](https://github.com/user-attachments/assets/aabce93e-44ed-4e64-b684-8abc50126040)
+
 
 ---
 
@@ -109,13 +141,18 @@ tampilan berhasil:
 
 ### a. Buat Template Laporan  
 Buat design jrxml dan sambungkan ke database untuk menampilkan data sesuai kebutuhan.  
-![image](https://github.com/user-attachments/assets/20e26c35-e121-4019-b340-46d3ebb636ab)
+![Screenshot 2024-11-26 141655](https://github.com/user-attachments/assets/09709276-eb86-4af0-b34b-adf60af4fe8e)
+
 
 source code :  
-![image](https://github.com/user-attachments/assets/4d1ffe37-12fe-4b49-87fa-6c64a748f2b0)
+
+![Screenshot 2024-11-26 141229](https://github.com/user-attachments/assets/a78f46ad-4553-4af4-88f2-ffa975199b5f)
+
 
 tampilan berhasil:
-![image](https://github.com/user-attachments/assets/43e02fa6-ea2f-493e-89af-f4a26674cf0d)
+
+![Screenshot 2024-11-26 142007](https://github.com/user-attachments/assets/7ec90ca2-329b-4bff-973c-210ca66b03ca)
+
 
 ---
 
